@@ -9,3 +9,9 @@
 ### iframe, youtube 링크 사용 ->안됨
 
 > 혹시나 나중에 다른 해결책이 생각나면 시도해보는 걸로...
+
+### 2020.07.25
+javascript를 사용하면 된다.
+
+var audio = new Audio("audo src");
+audio.play(); 를 하면 자동재생을 할 수 있다!
